@@ -1,6 +1,7 @@
 Revision history for NetHack-Engravings
 
 {{$NEXT}}
+      - add is_maybe_preengraved
 
 0.01  2013-06-16
       - Initial release
